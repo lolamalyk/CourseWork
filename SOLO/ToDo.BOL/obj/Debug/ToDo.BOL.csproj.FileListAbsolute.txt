@@ -1,0 +1,10 @@
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.BOL\bin\Debug\ToDo.BOL.dll.config
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.BOL\bin\Debug\ToDo.BOL.dll
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.BOL\bin\Debug\ToDo.BOL.pdb
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.BOL\bin\Debug\EntityFramework.dll
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.BOL\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.BOL\bin\Debug\EntityFramework.xml
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.BOL\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.BOL\obj\Debug\ToDo.BOL.csprojResolveAssemblyReference.cache
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.BOL\obj\Debug\ToDo.BOL.dll
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.BOL\obj\Debug\ToDo.BOL.pdb

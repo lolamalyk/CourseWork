@@ -1,0 +1,10 @@
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.SL\bin\Debug\ToDo.SL.dll.config
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.SL\bin\Debug\ToDo.SL.dll
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.SL\bin\Debug\ToDo.SL.pdb
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.SL\bin\Debug\ToDo.BLL.dll
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.SL\bin\Debug\ToDo.BOL.dll
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.SL\bin\Debug\ToDo.BLL.pdb
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.SL\bin\Debug\ToDo.BOL.pdb
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.SL\obj\Debug\ToDo.SL.csprojResolveAssemblyReference.cache
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.SL\obj\Debug\ToDo.SL.dll
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.SL\obj\Debug\ToDo.SL.pdb

@@ -1,0 +1,5 @@
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.DAL\bin\Debug\ToDo.DAL.dll
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.DAL\bin\Debug\ToDo.DAL.pdb
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.DAL\obj\Debug\ToDo.DAL.csprojResolveAssemblyReference.cache
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.DAL\obj\Debug\ToDo.DAL.dll
+c:\Users\Tanya\documents\visual studio 2013\Projects\SOLO\ToDo.DAL\obj\Debug\ToDo.DAL.pdb
